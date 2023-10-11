@@ -1,5 +1,4 @@
 # Ndongho
-This is for educational purpose only
 Script Kiddies:
 Motivation: Script kiddies are typically inexperienced and immature individuals who engage in hacking activities for thrill and notoriety rather than financial gain or political reasons. They are often motivated by curiosity or a desire to prove their technical prowess to their peers.
 Tactics: Script kiddies lack advanced hacking skills, so they rely on pre-written scripts and tools readily available on the internet to launch attacks. They may perform activities like DDoS attacks, defacement of websites, or basic scanning and exploitation of vulnerabilities in poorly secured systems.
